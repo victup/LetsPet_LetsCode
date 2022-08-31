@@ -13,4 +13,3 @@ O módulo de Orientação a Objetos I tem como objetivos garantir que o aluno:
 * Compreenda o conceito de herança e polimorfismo e como utilizá-la na prática; 
 
 Visando a aplicação dos conceitos aprendidos em aula e o objetivo do módulo, o desafio final será a entrega de um sistema de Pet Shop. O desafio será em times (squads) e cada squad será responsável pelo desenvolvimento de um módulo do sistema.
-
